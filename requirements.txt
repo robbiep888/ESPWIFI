@@ -1,0 +1,7 @@
+# Live graph and serial recording
+pyserial==3.5
+matplotlib==3.11.2
+
+# Existing CSV analysis and decision-tree experiments
+pandas==3.0.6
+scikit-learn==1.9.1

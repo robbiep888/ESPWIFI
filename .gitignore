@@ -1,0 +1,13 @@
+.venv/
+.pio/
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
+*.code-workspace
+
+# Downloaded reference project
+esp-csi/
+
+# Temporary phone testing helper
+receiver/Live_Graphs/phone_display.py
